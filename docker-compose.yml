@@ -1,0 +1,13 @@
+services:
+  postgres:
+    image: postgres:16
+    environment:
+      POSTGRES_USER: chetnadhara
+      POSTGRES_PASSWORD: chetnadhara
+      POSTGRES_DB: chetnadhara
+    ports:
+      - "5432:5432"
+  redis:
+    image: redis:7
+    ports:
+      - "6379:6379"

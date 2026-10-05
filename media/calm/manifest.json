@@ -1,0 +1,26 @@
+{
+  "id": "chetnadhara-calm-1",
+  "license": "CC0-1.0",
+  "title": "Still water",
+  "frames": [
+    {
+      "id": "hill",
+      "src": "hill.svg",
+      "caption": "The sun sat down behind the hill."
+    },
+    {
+      "id": "boat",
+      "src": "boat.svg",
+      "caption": "A boat moved slowly across the still water."
+    },
+    {
+      "id": "water",
+      "src": "water.svg",
+      "caption": "Everything waited, and that was enough."
+    }
+  ],
+  "audio": {
+    "src": "tone.wav",
+    "caption": "A soft tone"
+  }
+}
